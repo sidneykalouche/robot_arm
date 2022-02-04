@@ -1,2 +1,2 @@
 # robot_arm
-LeArm user guide
+Assembly guide for robot arm (learm)
